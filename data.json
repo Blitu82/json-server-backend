@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1393, 38.7223]
+      },
+      "properties": {
+        "name": "Lisbon Castle",
+        "description": "Historic castle in Lisbon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1424, 38.7102]
+      },
+      "properties": {
+        "name": "Belem Tower",
+        "description": "Iconic tower located in Belem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1477, 38.7081]
+      },
+      "properties": {
+        "name": "Jerónimos Monastery",
+        "description": "Historical monastery in Belem"
+      }
+    }
+  ]
+}
