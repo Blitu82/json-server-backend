@@ -1,11 +1,41 @@
 {
   "itinerary": [
-    {
-      "id": 1,
-      "name": "Lisbon Castle",
-      "address": "SampleStreet 34.",
-      "latitude": 38.7223,
-      "longitude": -9.1393
-    }
+    [
+      {
+        "id": 1,
+        "name": "Lisbon Castle",
+        "address": "SampleStreet 34.",
+        "latitude": 38.7223,
+        "longitude": -9.1393
+      },
+      {
+        "id": 2,
+        "name": "Belém Tower",
+        "address": "Belém Tower Address",
+        "latitude": 38.6916,
+        "longitude": -9.2159
+      },
+      {
+        "id": 3,
+        "name": "Jeronimos Monastery",
+        "address": "Jeronimos Monastery Address",
+        "latitude": 38.6979,
+        "longitude": -9.2064
+      },
+      {
+        "id": 4,
+        "name": "Santa Justa Lift",
+        "address": "Santa Justa Lift Address",
+        "latitude": 38.7123,
+        "longitude": -9.1397
+      },
+      {
+        "id": 5,
+        "name": "Rossio Square",
+        "address": "Rossio Square Address",
+        "latitude": 38.7157,
+        "longitude": -9.1393
+      }
+    ]
   ]
 }
