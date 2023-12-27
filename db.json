@@ -89,17 +89,17 @@
     },
     {
       "id": 11,
-      "itineraryId": 3,
+      "itineraryId": 2,
       "title": "photography"
     },
     {
       "id": 12,
-      "itineraryId": 99,
+      "itineraryId": 2,
       "title": "sightseeing"
     },
     {
       "id": 13,
-      "itineraryId": 99,
+      "itineraryId": 2,
       "title": "boat tour"
     },
     {
