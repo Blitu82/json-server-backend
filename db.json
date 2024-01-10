@@ -24,14 +24,14 @@
     {
       "id": 4,
       "name": "Santa Justa Lift",
-      "address": "Santa Justa Lift Address",
+      "address": "Santa Justa Lift Address 1",
       "latitude": 38.7123,
       "longitude": -9.1397
     },
     {
       "id": 5,
       "name": "Rossio Square",
-      "address": "Rossio Square Address",
+      "address": "Rossio Square Address 1",
       "latitude": 38.7157,
       "longitude": -9.1393
     }
