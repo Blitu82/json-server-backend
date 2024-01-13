@@ -45,7 +45,7 @@
     {
       "id": 2,
       "itineraryId": 1,
-      "title": "sport"
+      "title": "adventure"
     },
     {
       "id": 3,
@@ -76,6 +76,16 @@
       "id": 8,
       "itineraryId": 3,
       "title": "historical tour"
+    },
+    {
+      "id": 9,
+      "itineraryId": 2,
+      "title": "boat tour"
+    },
+    {
+      "id": 10,
+      "itineraryId": 2,
+      "title": "photography"
     }
   ]
 }
