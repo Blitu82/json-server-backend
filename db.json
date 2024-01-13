@@ -3,35 +3,35 @@
     {
       "id": 1,
       "name": "Lisbon Castle",
-      "address": "SampleStreet 34.",
+      "address": "R. Costa do Castelo",
       "latitude": 38.7223,
       "longitude": -9.1393
     },
     {
       "id": 2,
       "name": "Belém Tower",
-      "address": "Belém Tower Address 12",
+      "address": "Av. da India",
       "latitude": 38.6916,
       "longitude": -9.2159
     },
     {
       "id": 3,
       "name": "Jeronimos Monastery",
-      "address": "Jeronimos Monastery Address",
+      "address": "Praça do Império",
       "latitude": 38.6979,
       "longitude": -9.2064
     },
     {
       "id": 4,
       "name": "Santa Justa Lift",
-      "address": "Santa Justa Lift Address 1",
+      "address": "Lg. do Carmo / R. do Ouro",
       "latitude": 38.7123,
       "longitude": -9.1397
     },
     {
       "id": 5,
       "name": "Rossio Square",
-      "address": "Rossio Square Address 2",
+      "address": "Pç. Dom Pedro IV",
       "latitude": 38.7157,
       "longitude": -9.1393
     }
@@ -76,81 +76,6 @@
       "id": 8,
       "itineraryId": 3,
       "title": "historical tour"
-    },
-    {
-      "id": 9,
-      "itineraryId": 8,
-      "title": "nature walk"
-    },
-    {
-      "id": 10,
-      "itineraryId": 5,
-      "title": "shopping"
-    },
-    {
-      "id": 11,
-      "itineraryId": 2,
-      "title": "photography"
-    },
-    {
-      "id": 12,
-      "itineraryId": 2,
-      "title": "sightseeing"
-    },
-    {
-      "id": 13,
-      "itineraryId": 2,
-      "title": "boat tour"
-    },
-    {
-      "id": 14,
-      "itineraryId": 99,
-      "title": "music concert"
-    },
-    {
-      "id": 15,
-      "itineraryId": 99,
-      "title": "local festivals"
-    },
-    {
-      "id": 16,
-      "itineraryId": 99,
-      "title": "museum visit"
-    },
-    {
-      "id": 17,
-      "itineraryId": 99,
-      "title": "outdoor picnic"
-    },
-    {
-      "id": 18,
-      "itineraryId": 99,
-      "title": "wine tasting"
-    },
-    {
-      "id": 19,
-      "itineraryId": 99,
-      "title": "art gallery visit"
-    },
-    {
-      "id": 20,
-      "itineraryId": 99,
-      "title": "yoga session"
-    },
-    {
-      "id": 21,
-      "itineraryId": 99,
-      "title": "cycling tour"
-    },
-    {
-      "id": 22,
-      "itineraryId": 99,
-      "title": "cooking class"
-    },
-    {
-      "id": 23,
-      "itineraryId": 99,
-      "title": "gardening workshop"
     }
   ]
 }
