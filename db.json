@@ -9,31 +9,10 @@
     },
     {
       "id": 2,
-      "name": "Belém Tower",
-      "address": "Av. da India",
-      "latitude": 38.6916,
-      "longitude": -9.2159
-    },
-    {
-      "id": 3,
-      "name": "Jeronimos Monastery",
-      "address": "Praça do Império",
-      "latitude": 38.6979,
-      "longitude": -9.2064
-    },
-    {
-      "id": 4,
       "name": "Santa Justa Lift",
       "address": "Lg. do Carmo / R. do Ouro",
       "latitude": 38.7123,
       "longitude": -9.1397
-    },
-    {
-      "id": 5,
-      "name": "Rossio Square",
-      "address": "Pç. Dom Pedro IV",
-      "latitude": 38.7157,
-      "longitude": -9.1393
     }
   ],
   "activity": [
@@ -44,46 +23,21 @@
     },
     {
       "id": 2,
-      "itineraryId": 1,
+      "itineraryId": 2,
       "title": "adventure"
     },
     {
       "id": 3,
-      "itineraryId": 1,
+      "itineraryId": 2,
       "title": "culinary"
     },
     {
       "id": 4,
-      "itineraryId": 3,
-      "title": "cultural"
-    },
-    {
-      "id": 5,
-      "itineraryId": 4,
-      "title": "sport"
-    },
-    {
-      "id": 6,
-      "itineraryId": 5,
-      "title": "culinary"
-    },
-    {
-      "id": 7,
-      "itineraryId": 4,
-      "title": "adventure"
-    },
-    {
-      "id": 8,
-      "itineraryId": 3,
+      "itineraryId": 1,
       "title": "historical tour"
     },
     {
-      "id": 9,
-      "itineraryId": 2,
-      "title": "boat tour"
-    },
-    {
-      "id": 10,
+      "id": 5,
       "itineraryId": 2,
       "title": "photography"
     }
